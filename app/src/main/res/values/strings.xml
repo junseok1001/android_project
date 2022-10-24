@@ -1,21 +1,21 @@
 <resources>
-    <string name="app_name">IntentEx</string>
+    <string name="app_name">professional</string>
     <string-array name="sports_array">
-        <item>Shuttle Badminton</item>
-        <item>Tennis</item>
-        <item>FootBall</item>
-        <item>Basket Ball</item>
-        <item>Table Tennis</item>
-        <item>Chess</item>
-        <item>Hockey</item>
+        <item>1과목</item>
+        <item>2과목</item>
+        <item>3과목</item>
+        <item>4과목 </item>
+        <item>5과목 </item>
+        <item>6과목</item>
+        <item>7과목</item>
     </string-array>
     <string-array name="contents_array">
-        <item>This is Shuttle Badminton</item>
-        <item>This is Tennis</item>
-        <item>This is FootBall</item>
-        <item>This is Basket Ball</item>
-        <item>This is Table Tennis</item>
-        <item>This is Chess</item>
-        <item>This is Hockey</item>
+        <item>android sthudio lecture</item>
+        <item>database lecture</item>
+        <item>data system lecture</item>
+        <item>data structure lecture</item>
+        <item>data communication</item>
+        <item>embedded system lecture</item>
+        <item>window programming lecture</item>
     </string-array>
 </resources>
